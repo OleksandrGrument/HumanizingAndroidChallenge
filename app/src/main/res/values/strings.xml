@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HumanizingAndroidChallenge</string>
+
+    <!--MainActivity-->
+    <string name="main_act_joke">Joke</string>
+    <string name="main_act_animation">Animation</string>
+
+</resources>
